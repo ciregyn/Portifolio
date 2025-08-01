@@ -1,6 +1,9 @@
 # 🚀 Portfólio Front-End - Eric Gonçalves Andrade
 
 Bem-vindo ao meu portfólio de desenvolvimento front-end! Este projeto representa minha jornada de aprendizado e prática no mundo do desenvolvimento web, onde aplico na prática os conceitos estudados e busco constantemente evoluir.
+<br/>
+<br/>
+<img src="https://github.com/ciregyn/Portifolio/blob/main/img/foto-portifolio.png?raw=true">
 
 ## 🌱 Sobre o projeto
 
